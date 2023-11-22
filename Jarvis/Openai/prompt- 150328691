@@ -1,0 +1,20 @@
+Openai response for Prompt:  Jarvis using artificial intelligence tell me top 10 data structures
+****************
+
+Sure! Here are the top 10 data structures, ranked based on their importance and frequent usage:
+
+1. Array: A data structure that stores a fixed-size sequence of elements of the same type in contiguous memory locations.
+
+2. Linked List: A data structure that consists of a sequence of nodes, where each node contains data and a reference (link) to the next node.
+
+3. Stack: A data structure that follows the Last-In-First-Out (LIFO) principle, allowing elements to be inserted and removed from only one end.
+
+4. Queue: A data structure that follows the First-In-First-Out (FIFO) principle, allowing elements to be inserted at one end and removed from the other end.
+
+5. Tree: A data structure that represents a hierarchical structure using nodes connected by edges, where each node can have zero or more child nodes.
+
+6. Graph: A data structure that represents a set of interconnected nodes (vertices) and their relationships (edges) without any specific hierarchical ordering.
+
+7. Hash Table: A data structure that uses a hash function to map keys to array indices, enabling efficient insertion, deletion, and retrieval of key-value pairs.
+
+8. Heap: A complete binary tree-based data structure that satisfies the heap property, allowing efficient retrieval
