@@ -1,11 +1,3 @@
-<div align="center">
-  <h1>My-LUNA</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/9bKwIX10C1R18bfida/giphy.gif" alt="Luna Logo" width="400"/>
-</div>
-
 # Jarvis - AI Desktop Voice Assistant
 
 Jarvis is an AI-powered desktop assistant that can perform various tasks, answer questions, open websites, and even engage in conversations using OpenAI's GPT-3.5 model.
